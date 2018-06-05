@@ -11,7 +11,7 @@ public class Triangle {
     public void setKat1(double kat1) {
         this.kat1 = kat1;
     }
-
+   
     public void setKat2(double kat2) {
         this.kat2 = kat2;
     }
