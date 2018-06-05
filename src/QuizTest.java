@@ -16,8 +16,6 @@ public class QuizTest {
         wyniki.question1();
         wyniki.question2();
         wyniki.question3();
-
-
         }
 
     }
